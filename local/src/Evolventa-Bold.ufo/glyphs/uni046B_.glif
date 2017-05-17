@@ -14,22 +14,22 @@
     <contour>
       <point x="628" y="446" type="line"/>
       <point x="509" y="281" type="line"/>
-      <point x="629.847" y="281"/>
+      <point x="630" y="281"/>
       <point x="723" y="124"/>
       <point x="723" y="0" type="curve"/>
       <point x="579" y="0" type="line"/>
-      <point x="579" y="75.9277"/>
-      <point x="517.296" y="172"/>
+      <point x="579" y="76"/>
+      <point x="517" y="172"/>
       <point x="443" y="172" type="curve"/>
       <point x="443" y="0" type="line"/>
       <point x="310" y="0" type="line"/>
       <point x="310" y="172" type="line"/>
-      <point x="235.704" y="172"/>
-      <point x="174" y="68.1807"/>
+      <point x="236" y="172"/>
+      <point x="174" y="68"/>
       <point x="174" y="0" type="curve"/>
       <point x="30" y="0" type="line"/>
       <point x="30" y="110"/>
-      <point x="123.553" y="281"/>
+      <point x="124" y="281"/>
       <point x="243" y="281" type="curve"/>
       <point x="122" y="446" type="line"/>
       <point x="122" y="554" type="line"/>

@@ -23,10 +23,8 @@ lookup aaltAccessAllAlternateslookup0 {
     sub \nine by \nine.fitted ;
     sub \i by \i.dotless ;
     sub \j by \j.dotless ;
-    sub \afii10021 by \uni0414.loclBGR ;
     sub \afii10024 by \uni0416.loclBGR ;
     sub \afii10028 by \uni041A.loclBGR ;
-    sub \afii10029 by \uni041B.loclBGR ;
     sub \afii10049 by \uni042F.loclBGR ;
     sub \afii10067 by \uni0432.loclBGR ;
     sub \afii10072 by \uni0436.loclBGR ;
@@ -34,7 +32,6 @@ lookup aaltAccessAllAlternateslookup0 {
     sub \afii10074 by \uni0438.loclBGR ;
     sub \afii10075 by \uni0439.loclBGR ;
     sub \afii10076 by \uni043A.loclBGR ;
-    sub \afii10077 by \uni043B.loclBGR ;
     sub \afii10088 by \uni0446.loclBGR ;
     sub \afii10090 by \uni0448.loclBGR ;
     sub \afii10091 by \uni0449.loclBGR ;
@@ -120,6 +117,8 @@ lookup loclLocalizedFormsinCyrilliclookup9 {
     sub \afii10074 by \uni0438.loclBGR ;
     sub \afii10081 by \uni043F.loclSRB ;
     sub \afii10084 by \uni0442.loclSRB ;
+    sub \afii10088 by \uni0446.loclBGR ;
+    sub \afii10090 by \uni0448.loclBGR ;
 } loclLocalizedFormsinCyrilliclookup9;
 
 lookup loclLocalizedFormsinCyrilliclookup10 {
@@ -129,14 +128,14 @@ lookup loclLocalizedFormsinCyrilliclookup10 {
     sub \afii10074 by \uni0438.loclBGR ;
     sub \afii10081 by \uni043F.loclSRB ;
     sub \afii10084 by \uni0442.loclSRB ;
+    sub \afii10088 by \uni0446.loclBGR ;
+    sub \afii10090 by \uni0448.loclBGR ;
 } loclLocalizedFormsinCyrilliclookup10;
 
 lookup loclLocalizedFormsinCyrilliclookup11 {
   lookupflag 0;
-    sub \afii10021 by \uni0414.loclBGR ;
     sub \afii10024 by \uni0416.loclBGR ;
     sub \afii10028 by \uni041A.loclBGR ;
-    sub \afii10029 by \uni041B.loclBGR ;
     sub \afii10049 by \uni042F.loclBGR ;
     sub \afii10066 by \uni0431.loclBGR ;
     sub \afii10067 by \uni0432.loclBGR ;
@@ -147,7 +146,6 @@ lookup loclLocalizedFormsinCyrilliclookup11 {
     sub \afii10074 by \uni0438.loclBGR ;
     sub \afii10075 by \uni0439.loclBGR ;
     sub \afii10076 by \uni043A.loclBGR ;
-    sub \afii10077 by \uni043B.loclBGR ;
     sub \afii10081 by \uni043F.loclBGR ;
     sub \afii10084 by \uni0442.loclBGR ;
     sub \afii10088 by \uni0446.loclBGR ;
@@ -1634,17 +1632,17 @@ feature REQD {
 	\uni0306 \uni0307 \uni0308 \uni030A \uni030B \uni030C \uni0306.cyr \uni0237 
 	\i.dotless \uni0456.dotless \j.dotless \uni0458.dotless \uni0432.loclBGR 
 	\uni0433.loclBGR \uni0434.loclBGR \uni0436.loclBGR \uni0437.loclBGR 
-	\uni0438.loclBGR \uni0439.loclBGR \uni043A.loclBGR \uni043B.loclBGR 
-	\uni043F.loclBGR \uni0442.loclBGR \uni045D.loclBGR \uni044E.loclBGR 
-	\uni044A.loclBGR \uni044B.loclBGR \uni044C.loclBGR \uni0414.loclBGR 
-	\uni041B.loclBGR \uni0448.loclBGR \uni0446.loclBGR \uni0449.loclBGR 
-	\uni0431.loclBGR \uni0416.loclBGR \uni041A.loclBGR \uni042F.loclBGR 
-	\uni044F.loclBGR \uni046B \uni0466 \uni0467 \uni046A \uni0468 \uni046C \uni0469 
-	\uni046D \uni0478 \uni0479 \uni0464 \uni0465 \uni0483 \afii10148 \afii10196 
-	\uni030F \uni0476 \uni0477 \uni0460 \uni0461 \afii10147 \afii10195 \uni047E 
-	\uni047F \uni047A \uni047B \uni046E \uni046F \uni0470 \uni0471 \uni047C \uni047D 
-	\uni0486 \uni0485 \uni0484 \Ldot \ldot \uni0433.loclSRB \uni0434.loclSRB 
-	\uni043F.loclSRB \uni0442.loclSRB \uni0433.loclMKD \NULL \CR ];
+	\uni0438.loclBGR \uni0439.loclBGR \uni043A.loclBGR \uni043F.loclBGR 
+	\uni0442.loclBGR \uni045D.loclBGR \uni044E.loclBGR \uni044A.loclBGR 
+	\uni044B.loclBGR \uni044C.loclBGR \uni0448.loclBGR \uni0446.loclBGR 
+	\uni0449.loclBGR \uni0431.loclBGR \uni0416.loclBGR \uni041A.loclBGR 
+	\uni042F.loclBGR \uni044F.loclBGR \uni046B \uni0466 \uni0467 \uni046A \uni0468 
+	\uni046C \uni0469 \uni046D \uni0478 \uni0479 \uni0464 \uni0465 \uni0483 
+	\afii10148 \afii10196 \uni030F \uni0476 \uni0477 \uni0460 \uni0461 \afii10147 
+	\afii10195 \uni047E \uni047F \uni047A \uni047B \uni046E \uni046F \uni0470 
+	\uni0471 \uni047C \uni047D \uni0486 \uni0485 \uni0484 \Ldot \ldot 
+	\uni0433.loclSRB \uni0434.loclSRB \uni043F.loclSRB \uni0442.loclSRB 
+	\uni0433.loclMKD \NULL \CR ];
 @GDEF_Ligature = [\uniFB01 \uniFB02 \f_f \f_f_i \f_f_l ];
 
 table GDEF {

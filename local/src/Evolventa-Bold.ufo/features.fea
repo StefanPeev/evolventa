@@ -71,10 +71,8 @@ lookup ccmpGlyphCompositionDecompositionlookup7 {
 
 lookup loclLocalizedFormsinCyrilliclookup8 {
   lookupflag 0;
-    sub \uni0414 by \uni0414.loclBGR ;
     sub \uni0416 by \uni0416.loclBGR ;
     sub \uni041A by \uni041A.loclBGR ;
-    sub \uni041B by \uni041B.loclBGR ;
     sub \uni042F by \uni042F.loclBGR ;
     sub \uni0431 by \uni0431.loclBGR ;
     sub \uni0432 by \uni0432.loclBGR ;
@@ -85,7 +83,6 @@ lookup loclLocalizedFormsinCyrilliclookup8 {
     sub \uni0438 by \uni0438.loclBGR ;
     sub \uni0439 by \uni0439.loclBGR ;
     sub \uni043A by \uni043A.loclBGR ;
-    sub \uni043B by \uni043B.loclBGR ;
     sub \uni043F by \uni043F.loclBGR ;
     sub \uni0442 by \uni0442.loclBGR ;
     sub \uni0446 by \uni0446.loclBGR ;
@@ -2210,7 +2207,7 @@ lookup markMarkPositioninglookup3 {
   pos base [\eight.fitted ] <anchor 274 805> mark @Anchor0;
   pos base [\nine.fitted ] <anchor 282 805> mark @Anchor0;
   pos base [\uni0431.serbian ] <anchor 315 840> mark @Anchor0;
-  pos base [\uni0433.loclBGR ] <anchor 203 623> mark @Anchor0;
+  pos base [\uni0433.loclBGR ] <anchor 210 623> mark @Anchor0;
   pos base [\uni044A.loclBGR ] <anchor 222 623> mark @Anchor0;
   pos base [\uni044B.loclBGR ] <anchor 340 623> mark @Anchor0;
   pos base [\uni044C.loclBGR ] <anchor 100 623> mark @Anchor0;
@@ -3044,15 +3041,14 @@ feature mkmk {
 	\breve.cyruc \i.dotless \j.dotless \uni0456.dotless \uni0458.dotless 
 	\uni0431.serbian \uni0432.loclBGR \uni0433.loclBGR \uni0434.loclBGR 
 	\uni0436.loclBGR \uni0437.loclBGR \uni0438.loclBGR \uni0439.loclBGR 
-	\uni043A.loclBGR \uni043B.loclBGR \uni043F.loclBGR \uni0442.loclBGR 
-	\uni045D.loclBGR \uni044E.loclBGR \uni044A.loclBGR \uni044B.loclBGR 
-	\uni044C.loclBGR \uni0414.loclBGR \uni041B.loclBGR \uni0448.loclBGR 
-	\uni0446.loclBGR \uni0449.loclBGR \uni0431.loclBGR \uni0416.loclBGR 
-	\uni041A.loclBGR \uni042F.loclBGR \uni044F.loclBGR \uni046B \uni0466 \uni0467 
-	\uni046A \uni0468 \uni046C \uni0469 \uni046D \uni0478 \uni0479 \uni0464 \uni0465 
-	\uni0483 \uni0474 \uni0475 \uni030F \uni0476 \uni0477 \uni0460 \uni0461 \uni0472 
-	\uni0473 \uni047E \uni047F \uni047A \uni047B \uni046E \uni046F \uni0470 \uni0471 
-	\uni047C \uni047D \uni0486 \uni0485 \uni0484 \Ldot \ldot ];
+	\uni043A.loclBGR \uni043F.loclBGR \uni0442.loclBGR \uni045D.loclBGR 
+	\uni044E.loclBGR \uni044A.loclBGR \uni044B.loclBGR \uni044C.loclBGR 
+	\uni0448.loclBGR \uni0446.loclBGR \uni0449.loclBGR \uni0431.loclBGR 
+	\uni0416.loclBGR \uni041A.loclBGR \uni042F.loclBGR \uni044F.loclBGR \uni046B 
+	\uni0466 \uni0467 \uni046A \uni0468 \uni046C \uni0469 \uni046D \uni0478 \uni0479 
+	\uni0464 \uni0465 \uni0483 \uni0474 \uni0475 \uni030F \uni0476 \uni0477 \uni0460 
+	\uni0461 \uni0472 \uni0473 \uni047E \uni047F \uni047A \uni047B \uni046E \uni046F 
+	\uni0470 \uni0471 \uni047C \uni047D \uni0486 \uni0485 \uni0484 \Ldot \ldot ];
 @GDEF_Ligature = [\f_f \f_i \f_l \f_f_i \f_f_l ];
 @GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0304 \uni0306 \uni0307 
 	\uni0308 \uni030A \uni030B \uni030C \uni0306.cyr ];
