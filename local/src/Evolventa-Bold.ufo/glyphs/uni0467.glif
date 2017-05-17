@@ -9,21 +9,21 @@
     <contour>
       <point x="586" y="0" type="line"/>
       <point x="444" y="0" type="line"/>
-      <point x="409.072" y="91.1582" type="line"/>
-      <point x="369" y="70.3203" type="line"/>
+      <point x="409" y="91" type="line"/>
+      <point x="369" y="70" type="line"/>
       <point x="369" y="0" type="line"/>
       <point x="236" y="0" type="line"/>
-      <point x="236" y="72.5967" type="line"/>
-      <point x="197.809" y="93.458" type="line"/>
+      <point x="236" y="73" type="line"/>
+      <point x="198" y="93" type="line"/>
       <point x="162" y="0" type="line"/>
       <point x="20" y="0" type="line"/>
       <point x="251" y="554" type="line"/>
       <point x="355" y="554" type="line"/>
     </contour>
     <contour>
-      <point x="370.414" y="192.055" type="line"/>
+      <point x="370" y="192" type="line"/>
       <point x="303" y="368" type="line"/>
-      <point x="236.146" y="193.517" type="line"/>
+      <point x="236" y="194" type="line"/>
       <point x="303" y="157" type="line"/>
     </contour>
   </outline>
